@@ -1,16 +1,7 @@
-## Hi there 👋
 
-<!--
-**Hadishoghi/Hadishoghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **متخصص آفیس و اکسل**  
+🎓 دارای مدرک تخصص آفیس از مایکروسافت  
+💻 دانشجوی حوزه آی‌تی و شبکه‌های اینترنتی  
+📊 با هشت سال تجربه در زمینه اکسل‌های کاربردی و فرمول‌نویسی پیشرفته  
+🔧 توانایی کدنویسی در VBA و پرامت‌نویسی  
+🎨 طراح لوگو و لوگو موشن  
